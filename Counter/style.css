@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: burlywood;
+}  
+.btn{
+    background-color:#6e4c4c;
+    border: none;
+    border-radius: 5px;
+    color: aliceblue;
+    height: 100px;
+    width: 200px;
+    font-size: large;
+    font-weight: bold;
+}
+p{
+    font-size: 50px;
+    color:#6e4c4c;
+}
+h1{
+    color: #4e1414;
+}
